@@ -483,7 +483,7 @@
     "smallBlocks": [
       {
         "title": "은비",
-        "description": "면접이 끝나고, 동방으로 향한다.\n보드판을 정리하고 있는 은비에게 주인공은 진심을 전한다.\n\n그야. 당연할 지도 몰라.\n재미있는 시간들을 이렇게나 많이 같이 보냈는데\n어떻게 사랑하지 않을 수 있을까.\n\n네 세계에 억지로 비집고 들어가놓고서 도망쳐서 미안해.",
+        "description": "면접이 끝나고, 동방으로 향한다.\n보드판을 정리하고 있는 은비에게 주인공은 진심을 전한다.\n\n네 세계에 억지로 비집고 들어가놓고서 도망쳐서 미안해.",
         "isFolded": false
       },
       {
@@ -493,7 +493,7 @@
       },
       {
         "title": "솔미",
-        "description": "학교 옥상에서 마주친다.\n\n사실 얽히기 싫어서 말 안 걸었어.\n",
+        "description": "학교 옥상에서 마주친다.\n\n사실 얽히기 싫어서 굳이 아는 척 안했어. 미안해.",
         "isFolded": false
       }
     ]
@@ -502,6 +502,22 @@
     "title": "엔딩이 쇽슈씬이라면,",
     "description": "욕망을 가지고 해야 한다.\n\n하나는 찍어눌리는 걸 좋아하고\n은비는 더럽게 해야함. 등에 상처 존나 내면서\n솔미는 순애로 해야함.",
     "isFolded": false,
-    "smallBlocks": []
+    "smallBlocks": [
+      {
+        "title": "은비 마지막 문장.",
+        "description": "그야. 당연할 지도 몰라.\n재미있는 시간들을 이렇게나 많이 같이 보냈는데\n어떻게 사랑하지 않을 수 있을까.",
+        "isFolded": false
+      },
+      {
+        "title": "하나",
+        "description": "",
+        "isFolded": false
+      },
+      {
+        "title": "솔미",
+        "description": "",
+        "isFolded": false
+      }
+    ]
   }
 ]
